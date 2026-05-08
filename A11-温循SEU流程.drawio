@@ -119,7 +119,7 @@
           <mxGeometry height="10" width="89" x="288" y="100" as="geometry" />
         </mxCell>
         <mxCell id="homG2WnDhB8Lsd0HwtUf-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="359" y="35" as="geometry" />
+          <mxGeometry height="10" width="10" x="345" y="35" as="geometry" />
         </mxCell>
         <mxCell id="homG2WnDhB8Lsd0HwtUf-2" edge="1" parent="homG2WnDhB8Lsd0HwtUf-1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="homG2WnDhB8Lsd0HwtUf-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 7px;&quot;&gt;#7 高温稳定后报错&lt;/font&gt;" vertex="1">
-          <mxGeometry height="10" width="61" x="359" y="10" as="geometry" />
+          <mxGeometry height="10" width="61" x="352" y="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
