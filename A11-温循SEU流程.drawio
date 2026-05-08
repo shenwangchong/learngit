@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S4gRt-mjvxRFOpPXSq1v">
-    <mxGraphModel dx="734" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="428" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,6 +117,24 @@
         </mxCell>
         <mxCell id="yFCARUyUKvO_rgLDSops-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 7px;&quot;&gt;#2 3 5 常温28.5℃ 稳定报错&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="89" x="288" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="homG2WnDhB8Lsd0HwtUf-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="359" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="homG2WnDhB8Lsd0HwtUf-2" edge="1" parent="homG2WnDhB8Lsd0HwtUf-1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="homG2WnDhB8Lsd0HwtUf-3" edge="1" parent="homG2WnDhB8Lsd0HwtUf-1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="10" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="homG2WnDhB8Lsd0HwtUf-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 7px;&quot;&gt;#7 高温稳定后报错&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="61" x="359" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
