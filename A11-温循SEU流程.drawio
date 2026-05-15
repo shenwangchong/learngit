@@ -136,6 +136,24 @@
         <mxCell id="homG2WnDhB8Lsd0HwtUf-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 7px;&quot;&gt;#7 高温稳定后报错&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="61" x="352" y="37" as="geometry" />
         </mxCell>
+        <mxCell id="PPCWg_3MXWjvHu05UmDJ-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="75" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="PPCWg_3MXWjvHu05UmDJ-2" edge="1" parent="PPCWg_3MXWjvHu05UmDJ-1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPCWg_3MXWjvHu05UmDJ-3" edge="1" parent="PPCWg_3MXWjvHu05UmDJ-1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="10" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPCWg_3MXWjvHu05UmDJ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 7px;&quot;&gt;#8 低温-40℃ 上电即报错&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="89" x="75" y="205" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
