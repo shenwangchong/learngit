@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="7cG7J6rPeAbkX0LZRHAC">
-    <mxGraphModel dx="1561" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
             <mxPoint x="637.8800000000001" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ZtpzzHDPXaTCU4cgcsC-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PC" vertex="1">
+        <mxCell id="-ZtpzzHDPXaTCU4cgcsC-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px; color: rgb(255, 51, 51);&quot;&gt;PC&lt;/font&gt;" vertex="1">
           <mxGeometry height="680" width="280" x="640" y="40" as="geometry" />
         </mxCell>
         <mxCell id="-ZtpzzHDPXaTCU4cgcsC-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.998;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
@@ -105,6 +105,9 @@
             <mxPoint x="125" y="449.71" as="sourcePoint" />
             <mxPoint x="65" y="449.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cQl_KI_3AcFtS4EQqCnx-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 16px;&quot;&gt;FPGA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="95" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
