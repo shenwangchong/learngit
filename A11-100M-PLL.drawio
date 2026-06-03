@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="zF6JbZthIlYzu9TUOAe4">
-    <mxGraphModel dx="1280" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,7 +282,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SwyAh5LsnbkBzn_uKx--48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ff3333&quot;&gt;core&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;50M&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="_SwyAh5LsnbkBzn_uKx--48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ff3333&quot;&gt;core&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 119, 119)); background-color: transparent;&quot;&gt;GPIOT_P_07&amp;nbsp; &amp;nbsp; &amp;nbsp;50M&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="150" x="-60" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="_SwyAh5LsnbkBzn_uKx--49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px; color: rgb(151, 208, 119);&quot;&gt;Clock 0&lt;/font&gt;" vertex="1">
