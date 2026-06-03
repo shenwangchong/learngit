@@ -154,7 +154,7 @@
         </mxCell>
         <mxCell id="_SwyAh5LsnbkBzn_uKx--22" connectable="0" parent="_SwyAh5LsnbkBzn_uKx--21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="pll3_locked" vertex="1">
           <mxGeometry relative="1" x="0.0533" y="1" as="geometry">
-            <mxPoint x="-12" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
