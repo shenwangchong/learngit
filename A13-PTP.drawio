@@ -193,6 +193,9 @@
         <mxCell id="eG3QWs91Lycyb4TPqwFK-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#97d077&quot;&gt;&lt;b&gt;校准&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="60" x="1470" y="810" as="geometry" />
         </mxCell>
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-53" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 29, 48);&quot;&gt;&lt;b&gt;校准：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;linuxptp拿到T1、T2、T3、T4后计算Delay和Offset，将Offset发送到PHC中" vertex="1">
+          <mxGeometry height="150" width="310" x="1283" y="840" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
