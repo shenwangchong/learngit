@@ -107,16 +107,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="90" width="150" x="330" y="460" as="geometry" />
+          <mxGeometry height="90" width="190" x="330" y="460" as="geometry" />
         </mxCell>
         <mxCell id="Q9CB-eNJLJBLTYcUF_H3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Ethernet MAC Driver&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="130" x="340" y="495" as="geometry" />
+          <mxGeometry height="20" width="130" x="360" y="495" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="90" width="50" x="490" y="460" as="geometry" />
+          <mxGeometry height="90" width="50" x="840" y="560" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;DMA&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="50" x="490" y="495" as="geometry" />
+          <mxGeometry height="20" width="50" x="840" y="595" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
