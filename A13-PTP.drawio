@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="5EBLuEnUf7zPY0GAaLcb">
-    <mxGraphModel dx="1231" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,15 +77,15 @@
           <mxGeometry height="30" width="100" x="1010" y="840" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Timestap Engine&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="180" x="970" y="450" as="geometry" />
+          <mxGeometry height="20" width="180" x="970" y="490" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Ethernet MAC&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="180" x="970" y="595" as="geometry" />
         </mxCell>
-        <mxCell id="eG3QWs91Lycyb4TPqwFK-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" value="">
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.757;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="eG3QWs91Lycyb4TPqwFK-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1059.66" y="515" as="sourcePoint" />
-            <mxPoint x="1060" y="560" as="targetPoint" />
+            <mxPoint x="1144.76" y="482.5" as="sourcePoint" />
+            <mxPoint x="1145.1" y="527.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" value="">
@@ -99,6 +99,18 @@
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 29, 48);&quot;&gt;Linuxptp作用：&lt;/font&gt;&lt;/div&gt;计算时间偏差&lt;br&gt;计算频率偏差&lt;br&gt;运行Servo算法&lt;br&gt;决定如何校准本地时钟" vertex="1">
           <mxGeometry height="130" width="220" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#cce5ff;sketch=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 29, 48);&quot;&gt;TX Timestamp&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="1090" y="432.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#cce5ff;sketch=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 29, 48);&quot;&gt;RX Timestamp&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="920" y="432.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-20" edge="1" parent="1" source="eG3QWs91Lycyb4TPqwFK-6" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=0.245;exitY=-0.023;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="eG3QWs91Lycyb4TPqwFK-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="974.6600000000001" y="532.5" as="sourcePoint" />
+            <mxPoint x="975" y="483" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
