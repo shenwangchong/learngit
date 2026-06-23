@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="5EBLuEnUf7zPY0GAaLcb">
-    <mxGraphModel dx="1231" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           <mxGeometry height="20" width="60" x="1470" y="810" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-53" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 29, 48);&quot;&gt;&lt;b&gt;校准：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;linuxptp拿到T1、T2、T3、T4后计算Delay和Offset，将Offset发送到PHC中" vertex="1">
-          <mxGeometry height="150" width="310" x="1283" y="840" as="geometry" />
+          <mxGeometry height="150" width="310" x="1390" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
