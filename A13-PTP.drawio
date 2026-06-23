@@ -16,13 +16,13 @@
         <mxCell id="Q9CB-eNJLJBLTYcUF_H3-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#b0e3e6;sketch=1;strokeColor=#0e8088;" value="" vertex="1">
           <mxGeometry height="420" width="350" x="244" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;Linux&lt;/font&gt;" vertex="1">
+        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Linux&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="80" x="385" y="630" as="geometry" />
         </mxCell>
         <mxCell id="Q9CB-eNJLJBLTYcUF_H3-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="340" width="260" x="290" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;Linuxptp&lt;/font&gt;" vertex="1">
+        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Linuxptp&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="80" x="385" y="585" as="geometry" />
         </mxCell>
         <mxCell id="Q9CB-eNJLJBLTYcUF_H3-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" value="" vertex="1">
@@ -31,10 +31,10 @@
         <mxCell id="Q9CB-eNJLJBLTYcUF_H3-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#bac8d3;sketch=1;strokeColor=#23445d;" value="" vertex="1">
           <mxGeometry height="220" width="130" x="360" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;PTP PHC Driver&lt;/font&gt;" vertex="1">
+        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;PTP PHC Driver&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="370" y="546" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;Ethernet MAC Driver&lt;/font&gt;" vertex="1">
+        <mxCell id="Q9CB-eNJLJBLTYcUF_H3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Ethernet MAC Driver&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="130" x="360" y="430" as="geometry" />
         </mxCell>
         <mxCell id="Q9CB-eNJLJBLTYcUF_H3-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;" value="">
@@ -58,7 +58,7 @@
         <mxCell id="eG3QWs91Lycyb4TPqwFK-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="110" width="330" x="890" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="eG3QWs91Lycyb4TPqwFK-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;PHC （PTP Hardware Clock）&lt;/font&gt;" vertex="1">
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;PHC （PTP Hardware Clock）&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="180" x="970" y="295" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" value="" vertex="1">
@@ -76,10 +76,10 @@
         <mxCell id="eG3QWs91Lycyb4TPqwFK-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Ethernet PHY&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="1010" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="eG3QWs91Lycyb4TPqwFK-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;Timestap Engine&lt;/font&gt;" vertex="1">
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Timestap Engine&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="180" x="970" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="eG3QWs91Lycyb4TPqwFK-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;Ethernet MAC&lt;/font&gt;" vertex="1">
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Ethernet MAC&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="180" x="970" y="595" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" value="">
@@ -94,14 +94,11 @@
             <mxPoint x="1060" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eG3QWs91Lycyb4TPqwFK-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;RGMII / SGMII&lt;/font&gt;" vertex="1">
+        <mxCell id="eG3QWs91Lycyb4TPqwFK-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;RGMII / SGMII&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="90" x="1060" y="660" as="geometry" />
         </mxCell>
         <mxCell id="eG3QWs91Lycyb4TPqwFK-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 29, 48);&quot;&gt;Linuxptp作用：&lt;/font&gt;&lt;/div&gt;计算时间偏差&lt;br&gt;计算频率偏差&lt;br&gt;运行Servo算法&lt;br&gt;决定如何校准本地时钟" vertex="1">
           <mxGeometry height="130" width="220" x="130" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eG3QWs91Lycyb4TPqwFK-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;Linuxptp&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="80" x="400" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
