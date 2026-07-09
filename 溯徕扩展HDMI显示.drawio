@@ -44,7 +44,7 @@
           <mxGeometry height="20" width="45" x="690" y="195" as="geometry" />
         </mxCell>
         <mxCell id="yze2PQumfWrIKXbVQC9K-22" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="190" width="340" x="340" y="400" as="geometry" />
+          <mxGeometry height="190" width="340" x="330" y="410" as="geometry" />
         </mxCell>
         <mxCell id="yze2PQumfWrIKXbVQC9K-10" parent="yze2PQumfWrIKXbVQC9K-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2192&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="30" y="60" as="geometry" />
@@ -138,6 +138,15 @@
         </mxCell>
         <mxCell id="yze2PQumfWrIKXbVQC9K-20" parent="yze2PQumfWrIKXbVQC9K-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px; color: rgb(255, 29, 48);&quot;&gt;2160&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LPDDR4" vertex="1">
+          <mxGeometry height="60" width="120" x="465.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-24" edge="1" parent="1" source="yze2PQumfWrIKXbVQC9K-23" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="350" as="sourcePoint" />
+            <mxPoint x="526" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
