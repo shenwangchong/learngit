@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="j96SwMBb8yOhuNyVP8Wg">
-    <mxGraphModel dx="822" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,11 +154,14 @@
         <mxCell id="yze2PQumfWrIKXbVQC9K-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2. ISP算法输出是否主动填黑，如果没有，那么OB区域有可能是（1）旧数据（2）边缘复制数据（3）DDR残留数据（4）上一行/下一行图像" vertex="1">
           <mxGeometry height="50" width="330" x="390" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="yze2PQumfWrIKXbVQC9K-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3. DDR4 写 stride、读 stride、frame base address 是否一致" vertex="1">
-          <mxGeometry height="20" width="330" x="390" y="410" as="geometry" />
+        <mxCell id="yze2PQumfWrIKXbVQC9K-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="3. DDR4 写 stride、读 stride、frame base address 是否一致" vertex="1">
+          <mxGeometry height="20" width="250" x="465.5" y="410" as="geometry" />
         </mxCell>
         <mxCell id="yze2PQumfWrIKXbVQC9K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;a. 如果是纯边缘颜色延伸：算法是 edge replication&lt;/div&gt;&lt;div&gt;b. 如果是重复整幅图的一部分：stride / address 错&lt;/div&gt;&lt;div&gt;c. 如果是上一帧残影：DDR 没清零或 OB 没写&lt;/div&gt;&lt;div&gt;d. 如果是稳定真实图像：Sensor/ISP 实际输出可能大于 3840×2160&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="370" x="510" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="4. 确认MIPI CSI2 实际输入Word Count，看Sensor的实际输入是否大于4K" vertex="1">
+          <mxGeometry height="40" width="215" x="165" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
