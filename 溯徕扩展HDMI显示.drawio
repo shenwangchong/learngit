@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="j96SwMBb8yOhuNyVP8Wg">
-    <mxGraphModel dx="886" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry height="20" width="45" x="697.5" y="195" as="geometry" />
         </mxCell>
         <mxCell id="yze2PQumfWrIKXbVQC9K-22" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="190" width="340" x="330" y="410" as="geometry" />
+          <mxGeometry height="190" width="340" x="160" y="450" as="geometry" />
         </mxCell>
         <mxCell id="yze2PQumfWrIKXbVQC9K-10" parent="yze2PQumfWrIKXbVQC9K-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2192&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="30" y="60" as="geometry" />
@@ -147,6 +147,18 @@
             <mxPoint x="490" y="350" as="sourcePoint" />
             <mxPoint x="526" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 确认HDMI实际输出是否是3872 X2192，如果输出active area 是 3872×2192，那么 Monitor 显示的整个区域都属于有效图像，OB 区域必须由 FPGA 输出确定像素值，不会自动黑&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;看一下DE有效区域宽和高是多少，如果DE区域是3872 X 2192，OB彩色是由FPGA输出的数据导致的&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="330" x="780" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2. ISP算法输出是否主动填黑，如果没有，那么OB区域有可能是（1）旧数据（2）边缘复制数据（3）DDR残留数据（4）上一行/下一行图像" vertex="1">
+          <mxGeometry height="50" width="330" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3. DDR4 写 stride、读 stride、frame base address 是否一致" vertex="1">
+          <mxGeometry height="20" width="330" x="390" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="yze2PQumfWrIKXbVQC9K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;a. 如果是纯边缘颜色延伸：算法是 edge replication&lt;/div&gt;&lt;div&gt;b. 如果是重复整幅图的一部分：stride / address 错&lt;/div&gt;&lt;div&gt;c. 如果是上一帧残影：DDR 没清零或 OB 没写&lt;/div&gt;&lt;div&gt;d. 如果是稳定真实图像：Sensor/ISP 实际输出可能大于 3840×2160&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="370" x="510" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
