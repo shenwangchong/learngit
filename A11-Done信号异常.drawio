@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="mkMtBI9zaXerw9Anv-ZS">
-    <mxGraphModel dx="514" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="428" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PgYcYlueMNfrbA4qGmBh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Flash" vertex="1">
-          <mxGeometry height="30" width="160" x="194" y="270" as="geometry" />
+          <mxGeometry height="30" width="160" x="194" y="250" as="geometry" />
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MCU" vertex="1">
-          <mxGeometry height="30" width="160" x="194" y="330" as="geometry" />
+          <mxGeometry height="40" width="160" x="194" y="320" as="geometry" />
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FPGA" vertex="1">
-          <mxGeometry height="100" width="160" x="430" y="270" as="geometry" />
+          <mxGeometry height="120" width="160" x="430" y="250" as="geometry" />
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="JTAG" vertex="1">
           <mxGeometry height="30" width="60" x="520" y="330" as="geometry" />
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="PS" vertex="1">
-          <mxGeometry height="30" width="60" x="440" y="330" as="geometry" />
+          <mxGeometry height="40" width="60" x="440" y="320" as="geometry" />
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="下载器" vertex="1">
           <mxGeometry height="30" width="160" x="430" y="430" as="geometry" />
@@ -28,10 +28,10 @@
             <mxPoint x="414" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PgYcYlueMNfrbA4qGmBh-13" edge="1" parent="1" source="PgYcYlueMNfrbA4qGmBh-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PgYcYlueMNfrbA4qGmBh-8" value="">
+        <mxCell id="PgYcYlueMNfrbA4qGmBh-13" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="300" y="430" as="sourcePoint" />
-            <mxPoint x="300" y="380" as="targetPoint" />
+            <mxPoint x="354" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-14" connectable="0" parent="PgYcYlueMNfrbA4qGmBh-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SPI" vertex="1">
@@ -71,6 +71,12 @@
         </mxCell>
         <mxCell id="PgYcYlueMNfrbA4qGmBh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="板载JTAG口" vertex="1">
           <mxGeometry height="30" width="70" x="475" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="o7qk6rebuVEiRXNK35ir-3" edge="1" parent="1" source="PgYcYlueMNfrbA4qGmBh-5" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.67;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" target="PgYcYlueMNfrbA4qGmBh-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="354" y="320" as="sourcePoint" />
+            <mxPoint x="404" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
