@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="mkMtBI9zaXerw9Anv-ZS">
-    <mxGraphModel dx="514" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="421" dy="204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,6 +100,12 @@
         </mxCell>
         <mxCell id="o7qk6rebuVEiRXNK35ir-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VCC 1V8&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="30" x="377" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ePcgo2MYL8UHCuLg0V4C-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;1V8&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="17" x="426" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="ePcgo2MYL8UHCuLg0V4C-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;3V3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="17" x="337" y="324" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
