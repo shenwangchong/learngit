@@ -1,23 +1,50 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="nxFfNaKyOsOLnIdDdCsb">
-    <mxGraphModel dx="612" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="270" dy="231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9s4MUdbgwCPyfT-ZczSr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PLL1" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="150" as="geometry" />
+        <mxCell id="9s4MUdbgwCPyfT-ZczSr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PLL1&lt;div&gt;Core&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="120" x="80" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="9s4MUdbgwCPyfT-ZczSr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PLL2" vertex="1">
-          <mxGeometry height="200" width="120" x="320" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9s4MUdbgwCPyfT-ZczSr-4" edge="1" parent="1" source="9s4MUdbgwCPyfT-ZczSr-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="9s4MUdbgwCPyfT-ZczSr-4" edge="1" parent="1" source="9s4MUdbgwCPyfT-ZczSr-1" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.198;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="270" y="230" as="sourcePoint" />
-            <mxPoint x="320" y="180" as="targetPoint" />
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="160.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s4MUdbgwCPyfT-ZczSr-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="mipi_clk&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100M&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="210" y="154" as="geometry" />
+        <mxCell id="9s4MUdbgwCPyfT-ZczSr-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="mipi_dphy_tx_SLOWCLK&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100M / 0 Phase&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="220" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="20" y="224" as="sourcePoint" />
+            <mxPoint x="80" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="晶振 25&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;M&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.198;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="200.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.198;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="240.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.198;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="280.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="mipi_dphy_tx_FASTCLK_C&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;400M / 180 Phase&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="215" y="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
