@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="nxFfNaKyOsOLnIdDdCsb">
-    <mxGraphModel dx="581" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,10 @@
           <mxGeometry height="30" width="270" x="80" y="490" as="geometry" />
         </mxCell>
         <mxCell id="gNXohiVzHBhjCAjsfHU7-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;color: rgb(255, 29, 48);&quot;&gt;时钟功能上需要互斥，不会同时有效&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="220" x="105" y="520" as="geometry" />
+          <mxGeometry height="30" width="220" x="105" y="513" as="geometry" />
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font color=&quot;#ff1d30&quot;&gt;MIPI中的SLOWCLK、FASTCLK_C、FASTCLK_D是在MIPI TX工作中同时存在&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="440" x="-5" y="535" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
