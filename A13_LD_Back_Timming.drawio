@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="nxFfNaKyOsOLnIdDdCsb">
-    <mxGraphModel dx="1561" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,6 +119,22 @@
         </mxCell>
         <mxCell id="gNXohiVzHBhjCAjsfHU7-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font color=&quot;#ff1d30&quot;&gt;MIPI中的SLOWCLK、FASTCLK_C、FASTCLK_D是在MIPI TX工作中同时存在，&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff1d30&quot;&gt;且有明确的频率和相位关系&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="460" x="-15" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#FF3333;dashed=1;dashPattern=8 8;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="126" width="190" x="220" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-28" parent="1" style="text;whiteSpace=wrap;fontColor=#FF1D30;" value="从相同的参考时钟（reference clock）派生的时钟，即related clocks，不能用 -exclusive切掉" vertex="1">
+          <mxGeometry height="40" width="290" x="470" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-29" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gNXohiVzHBhjCAjsfHU7-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="464" y="180" />
+              <mxPoint x="414" y="130" />
+            </Array>
+            <mxPoint x="414" y="180" as="sourcePoint" />
+            <mxPoint x="464" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
