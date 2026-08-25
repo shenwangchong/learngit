@@ -111,6 +111,9 @@
         <mxCell id="gNXohiVzHBhjCAjsfHU7-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Logic" vertex="1">
           <mxGeometry height="30" width="50" x="314" y="424" as="geometry" />
         </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="set_clock_groups -exclusive：-exclusive的含义" vertex="1">
+          <mxGeometry height="30" width="270" x="80" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
