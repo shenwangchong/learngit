@@ -114,6 +114,9 @@
         <mxCell id="gNXohiVzHBhjCAjsfHU7-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="set_clock_groups -exclusive：-exclusive的含义" vertex="1">
           <mxGeometry height="30" width="270" x="80" y="490" as="geometry" />
         </mxCell>
+        <mxCell id="gNXohiVzHBhjCAjsfHU7-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;color: rgb(255, 29, 48);&quot;&gt;时钟功能上需要互斥，不会同时有效&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="105" y="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
