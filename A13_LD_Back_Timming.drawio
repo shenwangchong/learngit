@@ -136,22 +136,6 @@
             <mxPoint x="464" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gNXohiVzHBhjCAjsfHU7-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#33FFFF;dashed=1;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="626" y="227" as="geometry" />
-        </mxCell>
-        <mxCell id="gNXohiVzHBhjCAjsfHU7-31" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="800" y="246" />
-              <mxPoint x="750" y="196" />
-            </Array>
-            <mxPoint x="750" y="246" as="sourcePoint" />
-            <mxPoint x="806" y="196" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gNXohiVzHBhjCAjsfHU7-32" parent="1" style="text;whiteSpace=wrap;fontColor=#FF1D30;" value="pixel_clk 来自独立PLL，那么它与MIPI TX Clock之间没有固定相位关系，所以是CDC情况" vertex="1">
-          <mxGeometry height="40" width="290" x="809" y="176" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
