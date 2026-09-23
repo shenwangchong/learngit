@@ -1,17 +1,14 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="I77bZyzjZDkYDjcCSHGT">
-    <mxGraphModel dx="1071" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GHltsJ5GbgRgfw0RNfVO-8" edge="1" parent="1" source="GHltsJ5GbgRgfw0RNfVO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-8" edge="1" parent="1" source="GHltsJ5GbgRgfw0RNfVO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GHltsJ5GbgRgfw0RNfVO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sensor" vertex="1">
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sensor&lt;div&gt;思特威&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="GHltsJ5GbgRgfw0RNfVO-9" edge="1" parent="1" source="GHltsJ5GbgRgfw0RNfVO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="红外传感器" vertex="1">
           <mxGeometry height="60" width="120" y="310" as="geometry" />
@@ -20,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="240" width="420" x="310" y="140" as="geometry" />
+          <mxGeometry height="240" width="350" x="310" y="140" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="夜晚增加" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="370" as="geometry" />
@@ -28,23 +25,41 @@
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MIPI CSI 1.5G/2lane" vertex="1">
           <mxGeometry height="30" width="130" x="130" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="ECNN" vertex="1">
-          <mxGeometry height="60" width="120" x="380" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="RISC-V" vertex="1">
-          <mxGeometry height="60" width="120" x="380" y="160" as="geometry" />
-        </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="WIFI" vertex="1">
-          <mxGeometry height="60" width="120" x="820" y="230" as="geometry" />
+          <mxGeometry height="60" width="120" x="730" y="230" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
-          <mxGeometry height="30" width="60" x="740" y="230" as="geometry" />
+          <mxGeometry height="30" width="60" x="663" y="230" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="940" y="260" as="sourcePoint" />
-            <mxPoint x="1040" y="260" as="targetPoint" />
+            <mxPoint x="850" y="260" as="sourcePoint" />
+            <mxPoint x="950" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SD卡" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-10" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-9" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="500" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="手机" vertex="1">
+          <mxGeometry height="240" width="120" x="950" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RISC-V" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="eCNN（Yolo v5n）" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
