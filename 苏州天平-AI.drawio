@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="I77bZyzjZDkYDjcCSHGT">
-    <mxGraphModel dx="1071" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="240" width="350" x="310" y="140" as="geometry" />
+          <mxGeometry height="240" width="420" x="310" y="140" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="夜晚增加" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="370" as="geometry" />
@@ -26,15 +26,15 @@
           <mxGeometry height="30" width="130" x="130" y="140" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="WIFI" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="230" as="geometry" />
+          <mxGeometry height="60" width="120" x="810" y="230" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
-          <mxGeometry height="30" width="60" x="663" y="230" as="geometry" />
+          <mxGeometry height="30" width="60" x="740" y="237" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SNcE0vv9_VTLiQQAloLC-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="850" y="260" as="sourcePoint" />
-            <mxPoint x="950" y="260" as="targetPoint" />
+            <mxPoint x="930" y="259.58000000000004" as="sourcePoint" />
+            <mxPoint x="1030" y="259.58000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
@@ -46,14 +46,8 @@
         <mxCell id="SNcE0vv9_VTLiQQAloLC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SD卡" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-10" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-9" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" target="SNcE0vv9_VTLiQQAloLC-18" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="590" y="500" as="sourcePoint" />
-            <mxPoint x="640" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="手机&lt;div&gt;720 X 1280 15fps&lt;/div&gt;&lt;div&gt;（人体识别时帧率可以再低5-10帧）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="240" width="120" x="950" y="140" as="geometry" />
+          <mxGeometry height="240" width="120" x="1000" y="140" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RISC-V" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="186" as="geometry" />
@@ -71,10 +65,26 @@
           <mxGeometry height="30" width="60" x="455" y="110" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="视频进行H.264压缩（音视频），AVI格式" vertex="1">
-          <mxGeometry height="30" width="240" x="552" y="390" as="geometry" />
+          <mxGeometry height="30" width="240" x="330" y="390" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="H.264压缩" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-20" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-18" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="SNcE0vv9_VTLiQQAloLC-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="370" as="sourcePoint" />
+            <mxPoint x="660" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-22" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="460" />
+              <mxPoint x="680" y="260" />
+            </Array>
+            <mxPoint x="810" y="430" as="sourcePoint" />
+            <mxPoint x="872" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
