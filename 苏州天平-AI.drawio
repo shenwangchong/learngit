@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="I77bZyzjZDkYDjcCSHGT">
+    <mxGraphModel dx="1071" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-8" edge="1" parent="1" source="GHltsJ5GbgRgfw0RNfVO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sensor" vertex="1">
+          <mxGeometry height="60" width="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-9" edge="1" parent="1" source="GHltsJ5GbgRgfw0RNfVO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GHltsJ5GbgRgfw0RNfVO-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="红外传感器" vertex="1">
+          <mxGeometry height="60" width="120" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="420" x="310" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="夜晚增加" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="GHltsJ5GbgRgfw0RNfVO-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MIPI CSI 1.5G/2lane" vertex="1">
+          <mxGeometry height="30" width="130" x="130" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
