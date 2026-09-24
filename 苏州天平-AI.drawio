@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="I77bZyzjZDkYDjcCSHGT">
-    <mxGraphModel dx="1037" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="240" width="420" x="339" y="140" as="geometry" />
+          <mxGeometry height="240" width="470" x="289" y="140" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="夜晚增加" vertex="1">
           <mxGeometry height="30" width="60" x="59" y="370" as="geometry" />
         </mxCell>
         <mxCell id="GHltsJ5GbgRgfw0RNfVO-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MIPI CSI 1.5G/2lane" vertex="1">
-          <mxGeometry height="30" width="130" x="159" y="140" as="geometry" />
+          <mxGeometry height="30" width="130" x="149" y="140" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="WIFI" vertex="1">
           <mxGeometry height="60" width="120" x="839" y="230" as="geometry" />
@@ -44,35 +44,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SD卡" vertex="1">
-          <mxGeometry height="60" width="120" x="529" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="504" y="430" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="手机&lt;div&gt;720 X 1280 15fps&lt;/div&gt;&lt;div&gt;（人体识别时帧率可以再低5-10帧）&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="120" x="1029" y="140" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RISC-V" vertex="1">
-          <mxGeometry height="60" width="120" x="379" y="186" as="geometry" />
+          <mxGeometry height="60" width="120" x="320" y="184" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-19" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SNcE0vv9_VTLiQQAloLC-18" value="">
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-19" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SNcE0vv9_VTLiQQAloLC-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="eCNN（Yolo v5n）" vertex="1">
-          <mxGeometry height="60" width="120" x="379" y="274" as="geometry" />
+          <mxGeometry height="60" width="120" x="320" y="274" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="人体识别，仅有人识别后才进行识别前5S，后15S的数据记录" vertex="1">
-          <mxGeometry height="30" width="350" x="429" y="490" as="geometry" />
+          <mxGeometry height="30" width="350" x="389" y="490" as="geometry" />
         </mxCell>
         <mxCell id="SNcE0vv9_VTLiQQAloLC-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;TJ135（功耗1W以下）&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="474" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="视频进行H.264压缩（音视频），AVI格式" vertex="1">
-          <mxGeometry height="30" width="240" x="359" y="390" as="geometry" />
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="音视频压缩" vertex="1">
+          <mxGeometry height="30" width="80" x="564" y="252" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="H.264压缩&lt;div&gt;（压缩比1：50，最低1：20）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="529" y="274" as="geometry" />
+        <mxCell id="kCe1UC2nsXjmytFzClyH-6" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kCe1UC2nsXjmytFzClyH-4" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-20" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-18" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="SNcE0vv9_VTLiQQAloLC-9" value="">
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="H.264压缩" vertex="1">
+          <mxGeometry height="60" width="120" x="504" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-20" edge="1" parent="1" source="kCe1UC2nsXjmytFzClyH-4" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="SNcE0vv9_VTLiQQAloLC-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="639" y="370" as="sourcePoint" />
+            <mxPoint x="539" y="350" as="sourcePoint" />
             <mxPoint x="689" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -86,29 +89,18 @@
             <mxPoint x="901" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-23" edge="1" parent="1" source="SNcE0vv9_VTLiQQAloLC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#000000;endArrow=oval;endFill=1;" value="">
+        <mxCell id="SNcE0vv9_VTLiQQAloLC-23" edge="1" parent="1" source="kCe1UC2nsXjmytFzClyH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#000000;endArrow=oval;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="709" y="304" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="869" y="600" as="sourcePoint" />
-            <mxPoint x="709" y="304" as="targetPoint" />
+            <mxPoint x="709" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-27" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="20" width="30" x="1149" y="650" as="geometry" />
+        <mxCell id="kCe1UC2nsXjmytFzClyH-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="视频压缩比例1：50，最低1：20" vertex="1">
+          <mxGeometry height="30" width="200" x="464" y="154" as="geometry" />
         </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-25" edge="1" parent="SNcE0vv9_VTLiQQAloLC-27" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint y="20" as="sourcePoint" />
-            <mxPoint x="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SNcE0vv9_VTLiQQAloLC-26" edge="1" parent="SNcE0vv9_VTLiQQAloLC-27" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="10" y="20" as="sourcePoint" />
-            <mxPoint x="30" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kCe1UC2nsXjmytFzClyH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AVI格式封装" vertex="1">
+          <mxGeometry height="60" width="120" x="504" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
