@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="W0nxTAJxpPRLXc_YqiWo">
+    <mxGraphModel dx="1285" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jdoxDLQVobe0t-v74Y-f-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ti60" vertex="1">
+          <mxGeometry height="120" width="200" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jdoxDLQVobe0t-v74Y-f-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="MCU" vertex="1">
+          <mxGeometry height="120" width="200" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jdoxDLQVobe0t-v74Y-f-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ADC" vertex="1">
+          <mxGeometry height="120" width="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jdoxDLQVobe0t-v74Y-f-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="PHY" vertex="1">
+          <mxGeometry height="120" width="200" x="280" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
