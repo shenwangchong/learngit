@@ -40,8 +40,8 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VEXT = 0V" vertex="1">
           <mxGeometry height="30" width="80" x="25" y="491" as="geometry" />
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第一阶段" vertex="1">
-          <mxGeometry height="30" width="70" x="70" y="320" as="geometry" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第一阶段&lt;div&gt;0V&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="70" y="320" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -169,6 +169,33 @@
             <mxPoint x="800" y="600" as="sourcePoint" />
             <mxPoint x="1080" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="高阻" vertex="1">
+          <mxGeometry height="30" width="50" x="160" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="680" as="sourcePoint" />
+            <mxPoint x="800" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="720" as="sourcePoint" />
+            <mxPoint x="520" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="NSTATUS（直连信号）= 0V" vertex="1">
+          <mxGeometry height="30" width="170" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="高阻" vertex="1">
+          <mxGeometry height="30" width="50" x="160" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
