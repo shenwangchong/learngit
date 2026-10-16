@@ -121,8 +121,8 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第三阶段&lt;div&gt;MCU初始化阶段&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="400" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第四阶段&lt;div&gt;FPGA接受配置，done拉低阶段&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="190" x="560" y="320" as="geometry" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第四阶段&lt;div&gt;MCU正常工作FPGA接受配置，done拉低阶段&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="270" x="540" y="320" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
