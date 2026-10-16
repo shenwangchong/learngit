@@ -37,8 +37,8 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="1.3V" vertex="1">
           <mxGeometry height="30" width="50" x="150" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VEXT" vertex="1">
-          <mxGeometry height="30" width="50" x="40" y="491" as="geometry" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VEXT = 0V" vertex="1">
+          <mxGeometry height="30" width="80" x="25" y="491" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第一阶段" vertex="1">
           <mxGeometry height="30" width="70" x="70" y="320" as="geometry" />
@@ -69,12 +69,12 @@
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="673" as="sourcePoint" />
-            <mxPoint x="160" y="673" as="targetPoint" />
+            <mxPoint x="40" y="640" as="sourcePoint" />
+            <mxPoint x="720" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Done（直连信号）" vertex="1">
-          <mxGeometry height="30" width="120" x="30" y="643" as="geometry" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Done（直连信号）= 0V" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="610" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-17" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -93,8 +93,8 @@
             <mxPoint x="560" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="HWCFG [6]" vertex="1">
-          <mxGeometry height="30" width="90" x="30" y="540" as="geometry" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="HWCFG [6] = 0V" vertex="1">
+          <mxGeometry height="30" width="110" x="20" y="540" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-21" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
