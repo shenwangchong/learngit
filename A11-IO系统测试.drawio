@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hYAIQq_3PjcPY6oFdgxU">
-    <mxGraphModel dx="872" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,11 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="40" y="640" as="sourcePoint" />
             <mxPoint x="760" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-15" connectable="0" parent="KWXt0upnMaLiRC2pv2W3-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
+          <mxGeometry relative="1" x="0.7444" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Done（直连信号）= 0V" vertex="1">
@@ -170,13 +175,23 @@
             <mxPoint x="1080" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-16" connectable="0" parent="sd__LPha0nk-CfFl3W9S-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.1006" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="高阻" vertex="1">
           <mxGeometry height="30" width="50" x="160" y="610" as="geometry" />
         </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="560" y="680" as="sourcePoint" />
-            <mxPoint x="800" y="680" as="targetPoint" />
+            <mxPoint x="1082" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-14" connectable="0" parent="sd__LPha0nk-CfFl3W9S-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.5747" y="-1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
