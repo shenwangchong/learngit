@@ -37,6 +37,12 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="1.3V" vertex="1">
           <mxGeometry height="30" width="50" x="190" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VEXT" vertex="1">
+          <mxGeometry height="30" width="50" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第一阶段" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
