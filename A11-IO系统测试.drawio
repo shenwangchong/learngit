@@ -99,12 +99,12 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-22" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="420" as="sourcePoint" />
-            <mxPoint x="560" y="420" as="targetPoint" />
+            <mxPoint x="800" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-23" connectable="0" parent="KWXt0upnMaLiRC2pv2W3-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="MCU经1S 初始化开始正常工作" vertex="1">
-          <mxGeometry relative="1" x="-0.08" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-23" connectable="0" parent="KWXt0upnMaLiRC2pv2W3-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;span class=&quot;text-only&quot; style=&quot;white-space: pre;&quot;&gt;重新bootloader或者OTA过程到FPGA配置完成大概是1s&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5818" as="geometry">
+            <mxPoint x="125" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第三阶段&lt;div&gt;MCU初始化阶段&lt;/div&gt;" vertex="1">
