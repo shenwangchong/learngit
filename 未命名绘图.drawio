@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hYAIQq_3PjcPY6oFdgxU">
-    <mxGraphModel dx="418" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry height="30" width="50" x="40" y="491" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第一阶段" vertex="1">
-          <mxGeometry height="30" width="70" x="90" y="430" as="geometry" />
+          <mxGeometry height="30" width="70" x="70" y="320" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -52,7 +52,7 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="400" as="sourcePoint" />
-            <mxPoint x="480" y="400" as="targetPoint" />
+            <mxPoint x="560" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="3.3V" vertex="1">
@@ -64,8 +64,8 @@
             <mxPoint x="360" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWXt0upnMaLiRC2pv2W3-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第二阶段" vertex="1">
-          <mxGeometry height="30" width="70" x="260" y="380" as="geometry" />
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第二阶段&lt;div&gt;IO 默认阶段&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="210" y="320" as="geometry" />
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -95,6 +95,29 @@
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="HWCFG [6]" vertex="1">
           <mxGeometry height="30" width="90" x="30" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-21" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="650" as="sourcePoint" />
+            <mxPoint x="560" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-22" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="420" as="sourcePoint" />
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-23" connectable="0" parent="KWXt0upnMaLiRC2pv2W3-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="MCU经1S 初始化开始正常工作" vertex="1">
+          <mxGeometry relative="1" x="-0.08" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第三阶段&lt;div&gt;MCU初始化阶段&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="414" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KWXt0upnMaLiRC2pv2W3-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第四阶段&lt;div&gt;FPGA接受配置，done拉低阶段&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="560" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
