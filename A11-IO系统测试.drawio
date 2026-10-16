@@ -70,7 +70,7 @@
         <mxCell id="KWXt0upnMaLiRC2pv2W3-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="40" y="640" as="sourcePoint" />
-            <mxPoint x="720" y="640" as="targetPoint" />
+            <mxPoint x="760" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Done（直连信号）= 0V" vertex="1">
@@ -127,23 +127,23 @@
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-27" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="760" y="920" as="sourcePoint" />
-            <mxPoint x="760" y="370" as="targetPoint" />
+            <mxPoint x="800" y="920" as="sourcePoint" />
+            <mxPoint x="800" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KWXt0upnMaLiRC2pv2W3-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="第五阶段&lt;div&gt;FPGA配置完成，done拉高阶段&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="190" x="770" y="320" as="geometry" />
+          <mxGeometry height="40" width="190" x="790" y="320" as="geometry" />
         </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="960" y="920" as="sourcePoint" />
-            <mxPoint x="960" y="370" as="targetPoint" />
+            <mxPoint x="1040" y="920" as="sourcePoint" />
+            <mxPoint x="1040" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="760" y="400" as="sourcePoint" />
-            <mxPoint x="960" y="400" as="targetPoint" />
+            <mxPoint x="1080" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
@@ -157,6 +157,18 @@
         </mxCell>
         <mxCell id="sd__LPha0nk-CfFl3W9S-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;color: rgb(255, 29, 48);&quot;&gt;作为PPS输出&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="550" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="640" as="sourcePoint" />
+            <mxPoint x="800" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd__LPha0nk-CfFl3W9S-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="800" y="600" as="sourcePoint" />
+            <mxPoint x="1080" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
