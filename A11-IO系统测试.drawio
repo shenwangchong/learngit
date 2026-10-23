@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hYAIQq_3PjcPY6oFdgxU">
-    <mxGraphModel dx="2397" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2259" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,19 +269,8 @@
         <mxCell id="sd__LPha0nk-CfFl3W9S-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;需要MCU读取寄存器确认IO状态&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="360" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="DNAxfENxa7xFup-fQiyB-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-760" y="440" as="sourcePoint" />
-            <mxPoint x="-560" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DNAxfENxa7xFup-fQiyB-7" connectable="0" parent="DNAxfENxa7xFup-fQiyB-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
-          <mxGeometry relative="1" x="-0.6" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCU 热复位" vertex="1">
-          <mxGeometry height="30" width="80" x="-865" y="420" as="geometry" />
+          <mxGeometry height="30" width="80" x="-860" y="450" as="geometry" />
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -303,12 +292,12 @@
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-560" y="440" as="sourcePoint" />
-            <mxPoint x="-360" y="440" as="targetPoint" />
+            <mxPoint x="-550" y="510" as="sourcePoint" />
+            <mxPoint x="-360" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-12" connectable="0" parent="DNAxfENxa7xFup-fQiyB-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
-          <mxGeometry relative="1" x="-0.76" as="geometry">
+          <mxGeometry relative="1" x="-0.8526" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -316,15 +305,15 @@
           <mxGeometry height="40" width="140" x="-865" y="340" as="geometry" />
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCU 冷复位" vertex="1">
-          <mxGeometry height="30" width="80" x="-865" y="500" as="geometry" />
+          <mxGeometry height="30" width="80" x="-865" y="559" as="geometry" />
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-16" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="55" width="20" x="-785" y="491" as="geometry" />
+          <mxGeometry height="55" width="20" x="-785" y="550" as="geometry" />
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-760" y="540" as="sourcePoint" />
-            <mxPoint x="-520" y="540" as="targetPoint" />
+            <mxPoint x="-760" y="599" as="sourcePoint" />
+            <mxPoint x="-520" y="599" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-20" connectable="0" parent="DNAxfENxa7xFup-fQiyB-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
@@ -334,8 +323,8 @@
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-760" y="499.5" as="sourcePoint" />
-            <mxPoint x="-560" y="500" as="targetPoint" />
+            <mxPoint x="-760" y="558.5" as="sourcePoint" />
+            <mxPoint x="-560" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-22" connectable="0" parent="DNAxfENxa7xFup-fQiyB-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
@@ -348,14 +337,14 @@
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-560" y="500" as="sourcePoint" />
-            <mxPoint x="-550" y="480" as="targetPoint" />
+            <mxPoint x="-560" y="559" as="sourcePoint" />
+            <mxPoint x="-550" y="539" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-550" y="480" as="sourcePoint" />
-            <mxPoint x="-360" y="480" as="targetPoint" />
+            <mxPoint x="-550" y="539" as="sourcePoint" />
+            <mxPoint x="-360" y="539" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-26" connectable="0" parent="DNAxfENxa7xFup-fQiyB-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
@@ -382,14 +371,80 @@
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-30" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-560" y="460" as="sourcePoint" />
-            <mxPoint x="-360" y="460" as="targetPoint" />
+            <mxPoint x="-820" y="730" as="sourcePoint" />
+            <mxPoint x="-620" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNAxfENxa7xFup-fQiyB-31" connectable="0" parent="DNAxfENxa7xFup-fQiyB-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1ms" vertex="1">
           <mxGeometry relative="1" x="0.156" as="geometry">
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-760" y="490" as="sourcePoint" />
+            <mxPoint x="-560" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-35" connectable="0" parent="DNAxfENxa7xFup-fQiyB-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.5969" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-560" y="490" as="sourcePoint" />
+            <mxPoint x="-550" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-760" y="450" as="sourcePoint" />
+            <mxPoint x="-680" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-38" connectable="0" parent="DNAxfENxa7xFup-fQiyB-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.075" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-680" y="450" as="sourcePoint" />
+            <mxPoint x="-670" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-40" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-670" y="470" as="sourcePoint" />
+            <mxPoint x="-560" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-41" connectable="0" parent="DNAxfENxa7xFup-fQiyB-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
+          <mxGeometry relative="1" x="-0.1379" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-42" edge="1" parent="1" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.272" as="geometry">
+            <Array as="points">
+              <mxPoint x="-560" y="450" />
+              <mxPoint x="-540" y="430" />
+              <mxPoint x="-510" y="450" />
+              <mxPoint x="-530" y="450" />
+              <mxPoint x="-540" y="460" />
+              <mxPoint x="-550" y="430" />
+              <mxPoint x="-480" y="430" />
+            </Array>
+            <mxPoint x="-560" y="470" as="sourcePoint" />
+            <mxPoint x="-560" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-43" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="55" width="20" x="-780" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DNAxfENxa7xFup-fQiyB-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;color: rgb(255, 29, 48);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;MCU 拉 FPGA复位&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="-560" y="452.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
