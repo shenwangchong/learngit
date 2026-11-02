@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Oolf2M7ijMY26FsTaYp9">
-    <mxGraphModel dx="369" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
             <mxPoint x="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9oSgmQNlfQcltAgwkM_-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="雷达正常工作" vertex="1">
+        <mxCell id="P9oSgmQNlfQcltAgwkM_-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="返回网1" vertex="1">
           <mxGeometry height="30" width="100" x="470" y="90" as="geometry" />
         </mxCell>
         <mxCell id="P9oSgmQNlfQcltAgwkM_-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
@@ -70,7 +70,7 @@
             <mxPoint x="320" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9oSgmQNlfQcltAgwkM_-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+        <mxCell id="P9oSgmQNlfQcltAgwkM_-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="P9oSgmQNlfQcltAgwkM_-16" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="320" y="240" as="sourcePoint" />
             <mxPoint x="440" y="240" as="targetPoint" />
@@ -78,6 +78,36 @@
         </mxCell>
         <mxCell id="P9oSgmQNlfQcltAgwkM_-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="硬重启失败&lt;div&gt;AES异常&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="330" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2_FbsHymDt--RmT5ru-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="80" as="sourcePoint" />
+            <mxPoint x="760" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw2_FbsHymDt--RmT5ru-2" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="160" as="sourcePoint" />
+            <mxPoint x="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw2_FbsHymDt--RmT5ru-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="雷达正常" vertex="1">
+          <mxGeometry height="30" width="100" x="630" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2_FbsHymDt--RmT5ru-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw2_FbsHymDt--RmT5ru-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw2_FbsHymDt--RmT5ru-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="返回失败&lt;div&gt;RSA异常&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="480" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
